@@ -45,3 +45,14 @@ In your Terminal make sure you are in the folder which contains the script, then
 
 Then run the script with:
 `./COVID-19.sh`
+
+## Changing the Frequency
+If you want to set your schedule as to how frequent this script logs data for you then you can, to do this you change the line that you entered in to your crontab earlier (see above).
+
+Starting the crontab line with:
+
+`0 * * * *`
+
+Would make it check every hour.
+
+If you're not too familiar with scheduling in the crontab or want to check your schedule then this tool may be handy for you to sanity check your work: https://crontab.guru/
