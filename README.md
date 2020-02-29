@@ -1,7 +1,5 @@
-# COVID-19-Coronavirus-
-Bash script to automatically track and log Coronavirus infections in your country.
-
-This script will log infections day by day or hour by hour to a log file of your choosing. You can choose the frequency in which statistics are saved to your log.
+# COVID-19 - Coronavirus
+This bash script will automatically log infections day by day or hour by hour to a log file of your choosing. You can choose the frequency in which statistics are saved to your log.
 
 ## Setup
 Download the script to your Linux/UNIX system by running:
