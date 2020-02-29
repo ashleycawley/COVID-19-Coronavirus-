@@ -1,4 +1,4 @@
-# COVID-19 - Coronavirus
+# COVID-19  (Coronavirus)
 This bash script will automatically log infections day by day or hour by hour to a log file of your choosing. You can choose the frequency in which statistics are saved to your log.
 
 ## Setup
