@@ -8,3 +8,5 @@ echo "
 COVID-19 (Coronavirus) Infections in $COUNTRY
 $DATE
 $RETRIEVED_DATA"
+
+exit 0
